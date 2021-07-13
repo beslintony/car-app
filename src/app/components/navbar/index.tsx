@@ -15,7 +15,7 @@ const NavbarContainer = styled.div`
     lg:pl-12
     lg:pr-12
     justify-between
-    `};
+  `};
 `;
 
 const LogoContainer = styled.div``;
